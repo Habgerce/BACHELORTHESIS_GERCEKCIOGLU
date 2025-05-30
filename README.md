@@ -1,2 +1,0 @@
-# BACHELORTHESIS_GERCEKCIOGLU
-2017 and 2022 Presidential speeches
