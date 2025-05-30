@@ -1,2 +1,2 @@
 This repository contains an Excel dataset compiling the acceptance speeches and televised debate invitations of major South Korean presidential candidates from the 2017 and 2022 elections.
-All sheets include the original language (korean) + the english translations. Following, it also includes initial codes for my thematic discourse analysis and also FDA notes for the feminist discourse analysis I have used to analyze speeches for my thesis.
+All sheets include the original language (korean) + the english translations, initial codes for my thematic discourse analysis and also FDA notes for the feminist discourse analysis I have used to analyze speeches for my thesis.
